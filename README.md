@@ -25,7 +25,7 @@ An ML model that predicts if a loan should be approved based on user input. I us
 [🔗 GitHub Repo](https://github.com/Pranathi-96/loan-approval-ml)
 
 #### 🔹 Wombix – A Women’s Wellness App
-A web app built during a hackathon to support women’s health. Includes cycle tracking, nutrition suggestions, and emotional wellness tips. I worked mostly on the frontend using React & TypeScript.  
+A web application built during a hackathon to support women’s health. Includes cycle tracking, nutrition suggestions, and emotional wellness tips. I worked mostly on the frontend using React & TypeScript.  
 [🔗 GitHub Repo](https://github.com/Pranathi-96/wombix-wellness-app)
 
 ---
