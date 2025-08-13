@@ -26,10 +26,17 @@ ML model that predicts loan approval using Logistic Regression, Random Forest, a
 Achieved ~**85% accuracy** in testing.  
 [🔗 View on GitHub]()
 
-### 🔹 Wombix – Women’s Wellness App
-Hackathon project supporting women’s health with cycle tracking, nutrition tips, and emotional wellness tools.  
-Frontend built with **React & TypeScript**.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/wombix-wellness-app)
+### 🔹 AI Course Generator
+Generates personalized course outlines using AI, with a clean and interactive TypeScript React UI.  
+[🔗 View on GitHub](https://github.com/Pranathi-96/Ai-Course-Generator)
+
+### 🔹 Pandemic Simulation
+A simulation app built in TypeScript to visualize the spread of a pandemic under different conditions.  
+[🔗 View on GitHub](https://github.com/Pranathi-96/pandemic-simulation)
+
+### 🔹 AI Mock Interview
+An AI-powered mock interview platform that asks questions and evaluates answers in real time.  
+[🔗 View on GitHub](https://github.com/Pranathi-96/ai-mock-interview)
 
 ---
 
