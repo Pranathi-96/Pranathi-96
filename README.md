@@ -1,50 +1,67 @@
 # 👋 Hi, I'm Pranathi!
 
-I'm a **final-year B.Tech CSE student (2025)** who enjoys building things with code — from **real-world ML models** to **interactive frontend apps**.  
+I'm a final-year B.Tech CSE student (2025) who enjoys building things with code — from real-world ML models to fun frontend apps.  
 I love solving problems, learning by doing, and turning ideas into working projects.
 
 ---
 
 ## 🌟 A little about me
-- 🌱 Currently exploring **Full Stack Web Development** & **Machine Learning**
-- 🛠 Enjoy **building projects** that solve real-world problems
-- 🧩 Practicing **DSA** regularly to sharpen problem-solving skills
-- 💡 Learn best by experimenting and **getting my hands dirty with code**
+- Currently exploring **Full Stack Web Development** and **Machine Learning**
+- I enjoy **building projects**, especially when they solve actual problems
+- Practicing **DSA regularly** to sharpen my problem-solving skills
+- I learn best by getting my hands dirty with **code**
 
 ---
 
-## 🛠 Tech I’m Comfortable With
-`Python` `Java` `HTML` `CSS` `JavaScript` `TypeScript` `React`  
+## 🛠️ Tech I’m Comfortable With
+`Python` `Java` `HTML` `CSS` `JavaScript` `React`  
 `MySQL` `Firebase` `MongoDB` `Git` `GitHub`
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 AI Course Generator
-Generates personalized course outlines using AI, with a clean and interactive TypeScript React UI.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/Ai-Course-Generator)
+### 🔹 [Loan Approval Predictor](https://github.com/Pranathi-96/loan-approval-ml)
+![Loan Approval Predictor](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=loan-approval-ml&theme=radical)  
+ML model predicting loan approvals using Logistic Regression, Random Forest, and KNN (~85% accuracy).  
+**Tech Stack:** Python, scikit-learn
 
-### 🔹 Loan Approval System (Web App)
-A TypeScript web version of the loan approval process, with a responsive frontend and real-time form validation.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/loan-approval-system)
+---
 
-### 🔹 Pandemic Simulation
-A simulation app built in TypeScript to visualize the spread of a pandemic under different conditions.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/pandemic-simulation)
+### 🔹 [AI Course Generator](https://github.com/Pranathi-96/Ai-Course-Generator)
+![AI Course Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=Ai-Course-Generator&theme=radical)  
+Generates AI-powered course outlines with a modern TypeScript React UI.  
+**Tech Stack:** TypeScript, React
 
-### 🔹 AI Mock Interview
-An AI-powered mock interview platform that asks questions and evaluates answers in real time.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/ai-mock-interview)
+---
+
+### 🔹 [Loan Approval System (Web App)](https://github.com/Pranathi-96/loan-approval-system)
+![Loan Approval System](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=loan-approval-system&theme=radical)  
+Web application version of the loan approval process with real-time validation.  
+**Tech Stack:** TypeScript, React
+
+---
+
+### 🔹 [Pandemic Simulation](https://github.com/Pranathi-96/pandemic-simulation)
+![Pandemic Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=pandemic-simulation&theme=radical)  
+Simulates pandemic spread under various conditions to visualize transmission rates.  
+**Tech Stack:** TypeScript
+
+---
+
+### 🔹 [AI Mock Interview](https://github.com/Pranathi-96/ai-mock-interview)
+![AI Mock Interview](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=ai-mock-interview&theme=radical)  
+AI-powered mock interview platform that asks questions and evaluates answers in real time.  
+**Tech Stack:** TypeScript, React
 
 ---
 
 ## 🔗 Let’s Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/pranathi-siribadri/)
-- 📬 **Email:** siribadripranathi1234@gmail.com
 - 🌐 [Portfolio](https://portfolio.coursevita.com/pranathi-568)
+- 📬 **Email:** siribadripranathi1234@gmail.com
 
 ---
 
-### ✨ Fun Fact:
+## ✨ Fun Fact
 I find debugging strangely satisfying — like solving little mysteries one print statement at a time. 🔍💻
