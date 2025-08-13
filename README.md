@@ -21,11 +21,6 @@ I love solving problems, learning by doing, and turning ideas into working proje
 
 ## 📌 Featured Projects
 
-### 🔹 Loan Approval Predictor
-ML model that predicts loan approval using Logistic Regression, Random Forest, and KNN.  
-Achieved ~**85% accuracy** in testing.  
-[🔗 View on GitHub]()
-
 ### 🔹 AI Course Generator
 Generates personalized course outlines using AI, with a clean and interactive TypeScript React UI.  
 [🔗 View on GitHub](https://github.com/Pranathi-96/Ai-Course-Generator)
@@ -37,6 +32,13 @@ A simulation app built in TypeScript to visualize the spread of a pandemic under
 ### 🔹 AI Mock Interview
 An AI-powered mock interview platform that asks questions and evaluates answers in real time.  
 [🔗 View on GitHub](https://github.com/Pranathi-96/ai-mock-interview)
+
+### 🔹 Loan Approval Predictor
+ML model that predicts loan approval using Logistic Regression, Random Forest, and KNN.  
+Achieved ~**85% accuracy** in testing.  
+[🔗 View on GitHub](https://github.com/Pranathi-96/loan-approval-system)
+live demo [🔗 View on GitHub](https://loan-approval-system-five.vercel.app/)
+
 
 ---
 
