@@ -23,24 +23,24 @@ I love solving problems, learning by doing, and turning ideas into working proje
 
 ### 🔹 AI Course Generator
 Generates personalized course outlines using AI, with a clean and interactive TypeScript React UI.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/Ai-Course-Generator)
-[🔗 View on GitHub](https://ai-course-generator-jet.vercel.app/)
+-[🔗 View on GitHub](https://github.com/Pranathi-96/Ai-Course-Generator)
+-live demo[🔗 View on GitHub](https://ai-course-generator-jet.vercel.app/)
 
 ### 🔹 Pandemic Simulation
 A simulation app built in TypeScript to visualize the spread of a pandemic under different conditions.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/pandemic-simulation)
-[🔗 View on GitHub](https://pandemic-simulation-seven.vercel.app/)
+-[🔗 View on GitHub](https://github.com/Pranathi-96/pandemic-simulation)
+-live demo[🔗 View on GitHub](https://pandemic-simulation-seven.vercel.app/)
 
 ### 🔹 AI Mock Interview
 An AI-powered mock interview platform that asks questions and evaluates answers in real time.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/ai-mock-interview)
-[🔗 View on GitHub](https://ai-mock-interview-sand-eta.vercel.app/)
+-[🔗 View on GitHub](https://github.com/Pranathi-96/ai-mock-interview)
+-live demo[🔗 View on GitHub](https://ai-mock-interview-sand-eta.vercel.app/)
 
 ### 🔹 Loan Approval Predictor
 ML model that predicts loan approval using Logistic Regression, Random Forest, and KNN.  
 Achieved ~**85% accuracy** in testing.  
-[🔗 View on GitHub](https://github.com/Pranathi-96/loan-approval-system)
-live demo [🔗 View on GitHub](https://loan-approval-system-five.vercel.app/)
+-[🔗 View on GitHub](https://github.com/Pranathi-96/loan-approval-system)
+-live demo [🔗 View on GitHub](https://loan-approval-system-five.vercel.app/)
 
 
 ---
