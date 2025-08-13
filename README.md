@@ -22,35 +22,27 @@ I love solving problems, learning by doing, and turning ideas into working proje
 ## 📌 Featured Projects
 
 ### 🔹 [Loan Approval Predictor](https://github.com/Pranathi-96/loan-approval-ml)
-![Loan Approval Predictor](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=loan-approval-ml&theme=radical)  
+![Loan Approval Predictor](https://loan-approval-system-five.vercel.app/)  
 ML model predicting loan approvals using Logistic Regression, Random Forest, and KNN (~85% accuracy).  
 **Tech Stack:** Python, scikit-learn
 
 ---
 
 ### 🔹 [AI Course Generator](https://github.com/Pranathi-96/Ai-Course-Generator)
-![AI Course Generator](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=Ai-Course-Generator&theme=radical)  
+![AI Course Generator](https://ai-course-generator-jet.vercel.app/)  
 Generates AI-powered course outlines with a modern TypeScript React UI.  
 **Tech Stack:** TypeScript, React
-
----
-
-### 🔹 [Loan Approval System (Web App)](https://github.com/Pranathi-96/loan-approval-system)
-![Loan Approval System](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=loan-approval-system&theme=radical)  
-Web application version of the loan approval process with real-time validation.  
-**Tech Stack:** TypeScript, React
-
 ---
 
 ### 🔹 [Pandemic Simulation](https://github.com/Pranathi-96/pandemic-simulation)
-![Pandemic Simulation](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=pandemic-simulation&theme=radical)  
+![Pandemic Simulation](https://pandemic-simulation-seven.vercel.app/)  
 Simulates pandemic spread under various conditions to visualize transmission rates.  
 **Tech Stack:** TypeScript
 
 ---
 
 ### 🔹 [AI Mock Interview](https://github.com/Pranathi-96/ai-mock-interview)
-![AI Mock Interview](https://github-readme-stats.vercel.app/api/pin/?username=Pranathi-96&repo=ai-mock-interview&theme=radical)  
+![AI Mock Interview](https://ai-mock-interview-sand-eta.vercel.app/  )  
 AI-powered mock interview platform that asks questions and evaluates answers in real time.  
 **Tech Stack:** TypeScript, React
 
